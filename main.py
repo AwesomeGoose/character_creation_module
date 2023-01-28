@@ -65,7 +65,7 @@ defence — чтобы блокировать атаку противника
 
 
 def choice_char_class() -> str:
-    """Offers to choose a class"""
+    """Offers to choose a class."""
     approve_choice: str = ''
     char_class: str = ''
     while approve_choice != 'y':
